@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+    background-image: url(https://media.istockphoto.com/id/862676488/vector/abstract-coffee-beans-pattern-white-background.jpg?s=612x612&w=0&k=20&c=jB-0kyZhho5B2IZpJzaKQmPnyEL5aJcAObK8SlSG23U=);
+
+}
+main {
+    background-color: #ad8654f6;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    max-width: 600px;
+    border-radius: 50px;
+    padding: 30px;
+}
+h1, h2 {
+    text-align: center;
+    color: rgba(241, 229, 161, 0.918);
+    margin-top: 5px;
+}
+h2 {
+    font-size: 30px;
+}
+.levo {
+    display: inline-block;
+    text-align: left;
+    width: 75%;
+
+}
+.desno {
+    display: inline-block;
+    text-align: right;
+    width: 25%;
+}
+.menu {
+    margin: 30px;
+}
+.adresa {
+    text-align: center;
+    margin-top: -15px;
+    color: rgb(36, 10, 10);
+    font-size: larger;
+}
+.menu p {
+    font-size: large;
+    font-weight: bold;
+    color: rgb(36, 10, 10);
+}
+.coffee-text {
+    color: rgb(236, 196, 65);
+    font-weight: bolder;
+    font-style: italic;
+}
+.line-top, .line-bottom {
+    border: 0;
+    height: 4px;
+    width: auto;
+    background-color: rgb(36, 10, 10);;
+}
+.line-bottom {
+    margin-top: 40px;
+}
+.line-mid {
+    margin-top: -20px;
+    border: 0;
+    background-color: rgba(36, 10, 10, 0.199);
+    height: 2px;
+    width: 60%;
+}
+main p {
+    margin: 0;
+    margin-bottom: 2px;
+}
